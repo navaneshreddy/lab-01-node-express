@@ -18,6 +18,21 @@ npm run plain        # optional: plain http-module server on port 3000
 
 Environment variables: `PORT` (optional, defaults to `3000`). No other variables or secrets are needed.
 
+## Live Deployment
+
+**Live Application:** https://lab-01-node-express.onrender.com/
+
+**GitHub Repository:** https://github.com/navaneshreddy/lab-01-node-express
+
+### Live API Endpoints
+
+| Endpoint | Description |
+|---|---|
+| [Home](https://lab-01-node-express.onrender.com/) | Welcome message |
+| [About](https://lab-01-node-express.onrender.com/about) | About information |
+| [Time](https://lab-01-node-express.onrender.com/time) | Current date and time |
+| [404 Test](https://lab-01-node-express.onrender.com/unknown) | Error handling |
+
 ## Endpoints
 
 | Method | Path     | Description                                   | Status |
